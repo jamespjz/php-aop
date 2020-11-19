@@ -8,9 +8,14 @@
             "email": "jianzhongpi@163.com"
         }
     ],
-    "minimum-stability": "v0.1.0",
+//    "minimum-stability": "dev",
     "require": {
         "php":">=7.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.0"
+        }
     },
     "autoload": {
         "psr-4": {
