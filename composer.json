@@ -8,13 +8,13 @@
             "email": "jianzhongpi@163.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "0.1.0",
     "require": {
         "php":">=7.0"
     },
     "autoload": {
         "psr-4": {
-            "Jamespi\\PHPAOP\\": "Library/"
+            "Jamespi\\PhpAop\\": "Library/"
         }
     }
 }

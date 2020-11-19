@@ -6,7 +6,7 @@
  * Time: 11:08
  */
 
-namespace Jamespi\PHPAop\Src;
+namespace Jamespi\PhpAop\Src;
 
 
 class Test
