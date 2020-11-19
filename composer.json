@@ -11,8 +11,7 @@
     "minimum-stability": "dev",
     "require": {
         "php":">=7.0",
-        "illuminate/config": "^5.2",
-        "vlucas/phpdotenv": "^2.3"
+        "illuminate/config": "^8.10"
     },
     "autoload": {
         "psr-4": {
